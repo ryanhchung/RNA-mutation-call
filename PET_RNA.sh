@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-# authors : Heechul Chung, M.S., Eun Jeong Cho, M.S., and Chang Ohk Sung, M.D., Ph.D.
+# authors : Heechul Chung, M.S., Eun Jeong Cho, M.S., and Chang Ohk Sung, M.D., Ph.D., Asan Medical Center
 # Mutation calling from RNA fastq (somatic)
 # Mapping : STAR 2pass
 # Calling : Mutect2
